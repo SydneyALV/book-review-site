@@ -1,3 +1,15 @@
+a:visited {
+    color: rgb(170, 123, 194);
+}
+
+a:hover {
+    color: white;
+}
+
+nav a {
+    padding-left: 0.5cm;
+}
+
 header, footer {
     background-color: purple;
     color: white;

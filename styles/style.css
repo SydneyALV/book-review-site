@@ -1,0 +1,30 @@
+header, footer {
+    background-color: purple;
+    color: white;
+    font-size:larger;
+    text-align: center;
+}
+
+html {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    align-items: center;
+    list-style: none;
+}
+
+main {
+    background-color: antiquewhite;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+}
+
+nav {
+    text-align: center;
+    font-size: x-large;
+}
+
+.book-title {
+    font-style: italic;
+}

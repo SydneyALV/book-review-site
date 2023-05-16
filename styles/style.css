@@ -1,5 +1,5 @@
 a:visited {
-    color: rgb(170, 123, 194);
+    color:  #6b0015;
 }
 
 a:hover {
@@ -11,10 +11,15 @@ nav a {
 }
 
 header, footer {
-    background-color: purple;
+    border-radius: 25px;
+    border-color: #6b0015;
+    border-style: ridge;
+    background-color:  	 #ae001a;
     color: white;
     font-size:larger;
     text-align: center;
+    padding: 0.1cm;
+    padding-bottom: 0.2cm;
 }
 
 html {
@@ -27,6 +32,7 @@ li {
 }
 
 main {
+    border-radius: 25px;
     background-color: antiquewhite;
     padding-top: 0.5cm;
     padding-bottom: 0.5cm;
@@ -40,3 +46,5 @@ nav {
 .book-title {
     font-style: italic;
 }
+
+

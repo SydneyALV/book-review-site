@@ -1,0 +1,39 @@
+.review {
+    background-color: lightgray;
+    padding-top: 0.1cm;
+    padding-bottom: 0.05cm;
+    border-radius: 25px;
+    margin: 0.25cm;
+}
+
+.review-paragraph {
+    line-height: 150%;
+    padding: 0.1cm;
+    margin: 1cm;
+}
+
+.review-info {
+    padding-left: 1.1cm;
+    font-size: larger;
+}
+
+#book-info {
+    vertical-align: center;
+    align-content: center;
+}
+
+#book-info img {
+    float: left;
+    padding: 0.5cm;
+    width: 200px;
+    height: 300px;
+}
+
+#book-info blockquote {
+    padding: 0.2cm;
+}
+
+.book-description {
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
